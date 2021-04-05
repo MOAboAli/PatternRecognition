@@ -3,8 +3,11 @@ Course Pattern Recognition, Using Different algorithm on  Iris Dataset
 
 
 Dataset: Iris Dataset
+
 Using python programing language.
+
 The iris dataset contains the following data
+
     •	50 samples of 3 different species of iris (150 samples total)
     •	3 Classes :  "0": setosa,"1": versicolor,"2": virginica
     •	4 Features , dataset is 150 * 4 Matrix
