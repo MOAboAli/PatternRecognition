@@ -1,5 +1,5 @@
-# PatternRecognition
-Course Pattern Recognition, Using Different algorithm on  Iris Dataset
+# Pattern Recognition
+Course Pattern Recognition, Using Different algorithms on  Iris Dataset
 
 
 Dataset: Iris Dataset
@@ -93,6 +93,7 @@ K-Means
 Test Cases :
 
 
+![image](https://user-images.githubusercontent.com/26040529/113584742-8ab7e600-962b-11eb-994f-48ac352af640.png)
 
 
 
