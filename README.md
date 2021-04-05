@@ -92,7 +92,7 @@ K-Means
 
 Test Cases :
 
-	![image](https://user-images.githubusercontent.com/26040529/113584487-40366980-962b-11eb-92d4-c7944b9c4219.png)
+
 
 
 
