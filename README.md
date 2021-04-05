@@ -1,5 +1,5 @@
-# Pattern Recognition (it was created in Dec 2019)
-Course Pattern Recognition, Using Different algorithms on  Iris Dataset
+# Pattern Recognition 
+Course Pattern Recognition, Using Different algorithms on  Iris Dataset (it was created in Dec 2019)
 
 
 Dataset: Iris Dataset
