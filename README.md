@@ -1,5 +1,5 @@
 # Pattern Recognition 
- Using Different algorithms on  Iris Dataset (it was created in Dec 2019)
+ Using different classification algorithms on  Iris Dataset (it was created in Dec 2019)
 
 
 Dataset: Iris Dataset
